@@ -26,7 +26,7 @@ Features:
 
 3-Comprehensive Data Display: Presents essential metrics like ask price, bid price, volume, trades, and more in a clear and organized manner.
 
-due to not supporting websocket stream from the netlify the crypto_details page is not showing in the [netlify link]((https://65fb31def29d690d61a9046d--grand-daifuku-144cc7.netlify.app/)) of the app however ii will provide the ui for both of the pages here,
+due to not supporting websocket stream from the netlify the crypto_details page is not showing in the [netlify link](https://65fb31def29d690d61a9046d--grand-daifuku-144cc7.netlify.app/) of the app however ii will provide the ui for both of the pages here,
 
 the home page looks like this 
 ![Screenshot (59)](https://github.com/dlvinn/flutter-crypto-price-tracker-app/assets/115410984/241c182d-e702-47bd-93b5-22cfc8eab55f)
